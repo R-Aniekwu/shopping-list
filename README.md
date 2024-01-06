@@ -2,3 +2,8 @@
 - Iphone
 - Office Chair
 - Biscuits
+- Peanuts
+- Bananas
+- Eggs
+- Milk
+- Bread
